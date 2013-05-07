@@ -8,6 +8,7 @@
     <ignored path="makemyday.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2d91d28e-3f66-4417-ab64-271bc19d977a" time="1367917094650" ignored="false" />
+    <file path="/index.html" changelist="2d91d28e-3f66-4417-ab64-271bc19d977a" time="1367918614150" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="248" selection-end="248" vertical-scroll-proportion="0.20023558">
+            <state line="12" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="0.24028268">
               <folding />
             </state>
           </provider>
@@ -288,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="248" selection-end="248" vertical-scroll-proportion="0.20023558">
+        <state line="12" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="0.24028268">
           <folding />
         </state>
       </provider>
