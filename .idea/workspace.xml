@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d91d28e-3f66-4417-ab64-271bc19d977a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/index.html" afterPath="$PROJECT_DIR$/src/main/index.html" />
-    </list>
+    <list default="true" id="2d91d28e-3f66-4417-ab64-271bc19d977a" name="Default" comment="" />
     <ignored path="makemyday.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2d91d28e-3f66-4417-ab64-271bc19d977a" time="1367917447432" ignored="false" />
